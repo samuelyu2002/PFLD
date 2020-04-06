@@ -172,8 +172,8 @@ def parse_args():
     # -- epoch
     parser.add_argument('--start_epoch', default=1, type=int)
     parser.add_argument('--end_epoch', default=300, type=int)
-    parser.add_argument('--num', default=28,type=int)
-    num=29
+    
+    num=1
     # -- snapshot、tensorboard log and checkpoint
     parser.add_argument(
         '--snapshot',
