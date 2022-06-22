@@ -1,7 +1,7 @@
-torchvision==0.4.0
-numpy==1.21.0
+torchvision
+numpy
 torch==1.2.0
-opencv_python==4.2.0.32
-tensorboardX==1.8
+opencv_python
+tensorboardX
 Pillow
 pthflops==0.2.2
