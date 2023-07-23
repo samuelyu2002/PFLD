@@ -1,6 +1,6 @@
 torchvision
 numpy
-torch==1.2.0
+torch==1.13.1
 opencv_python
 tensorboardX
 Pillow
